@@ -22,7 +22,7 @@ Usamos los microdatos de la Encuesta de Demanda de Inclusión Financiera 2022 y 
 │   ├── raw/
 │   │   └── microdatos_demanda_2022.xlsx            # Microdatos originales de la encuesta
 │   └── processed/
-│       └── base_inclusion_financiera_2022.csv      # Base limpia que sale del notebook 1 y usa el notebook 2
+│       └── base_inclusion_financiera_2022.csv      
 ├── notebooks/
 │   ├── 01_limpieza_eda.ipynb                       # Importación, unión con DIVIPOLA, limpieza, variables y análisis exploratorio
 │   └── 02_modelos.ipynb                            # Modelo 1 de acceso al crédito y Modelo 2 de resiliencia rural
